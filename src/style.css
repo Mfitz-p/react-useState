@@ -4,3 +4,6 @@ h1, p {
 .contador {
   border: 2px solid red;
 }
+.decremento {
+  border: 3px solid yellow;
+}
